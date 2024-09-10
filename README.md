@@ -49,7 +49,7 @@ Enter the number of tweets to analyze.
 View the results:
 
 The script will fetch tweets, analyze their sentiment, and display a pie chart showing the distribution of positive, neutral, and negative sentiments.
-Example
+Example:
 When you run the script and search for a hashtag like #Python, you will see an output similar to this:
 
 Total tweets analyzed: 100
@@ -58,7 +58,7 @@ Neutral: 35%
 Negative: 20%
 The sentiment distribution is also displayed in a pie chart.
 
-Libraries Used
+Libraries Used:
 Tweepy: For interacting with the Twitter API.
 TextBlob: For natural language processing and sentiment analysis.
 Matplotlib: For plotting the sentiment data.
